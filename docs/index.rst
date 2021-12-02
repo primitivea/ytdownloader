@@ -70,6 +70,8 @@ Atau, bisa juga jika status orang lain berbentuk teks ataupun video. Anda bisa m
 
 Fitur yang ada pada WhatsApp GB juga bisa mengirimkan banyak jenis file. Tidak hanya sekedar mengirimkan gambar, musik, maupun video. Dengan aplikasi ini anda bisa mengirimkan hingga 100 gambar sekaligus. 
 
+Referensi lainnya: `Cara Buat Nada Dering Keren dan Unik <https://nadadering.readthedocs.io/en/latest/>`_
+
 Cara download dan install WhatsApp GB terbaru
 ==============================
 
