@@ -25,7 +25,7 @@ Cara pakai savefrom untuk download video youtube
 
 1. Buka situs youtube melalui HP atau komputer
 2. Cari video terbaik yang ingin anda simpan atau download
-3. Salin url-nya, misal www.youtube.com/watch?v=qqq
+3. Salin url-nya, misal youtube.com/watch?v=qqq
 4. Selanjutnya buka situs savefrom.net atau en.ssyoutube.com
 5. Pastekan url youtube tadi ke situs savefrom lalu klik tombol download
 6. Savefrom akan memunculkan pilihan tipe file download beserta resolusinya
